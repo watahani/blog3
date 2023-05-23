@@ -1,8 +1,7 @@
 name: upload-gh-pages
 
 permissions:
-  contents: read
-  pages: write
+  contents: write
 
 on:
   push:
